@@ -38,6 +38,7 @@ body {
     justify-items: center;
     align-items:left;
     padding:3rem;
+    padding-right:3.3rem;
 }
 
 .Sedans h1, .SUVs h1, .Luxury h1 {
@@ -46,7 +47,7 @@ body {
 }
 
 .Sedans p, .SUVs p, .Luxury p {
-    margin-bottom: 4rem;
+    margin-bottom: 6rem;
 }
 
 .button {
